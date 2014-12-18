@@ -14,6 +14,9 @@ Descriptions below the links are from the first cell of the notebooks
     
     Ferry route & deal with .mat  
 
+* ##[Particle notebook.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis/raw/tip/jie/Particle notebook.ipynb)
+Particle figure
+
 
 ##License
 
