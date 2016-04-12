@@ -6,11 +6,11 @@ The links below are to static renderings of the notebooks via
 Descriptions below the links are from the first cell of the notebooks
 (if that cell contains Markdown or raw text).
 
-* ##[ParticleDeepening&Drifter&SalinityFerry&Statistics.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis/raw/tip/jie/OceanSciences/ParticleDeepening&Drifter&SalinityFerry&Statistics.ipynb)  
+* ##[ParticleDeepening&Drifter&SalinityFerry&Statistics.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis-jie/raw/tip/jie/OceanSciences/ParticleDeepening&Drifter&SalinityFerry&Statistics.ipynb)  
     
-* ##[DrifterParticleImage.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis/raw/tip/jie/OceanSciences/DrifterParticleImage.ipynb)  
+* ##[DrifterParticleImage.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis-jie/raw/tip/jie/OceanSciences/DrifterParticleImage.ipynb)  
     
-* ##[SaliCom_08oct14.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis/raw/tip/jie/OceanSciences/SaliCom_08oct14.ipynb)  
+* ##[SaliCom_08oct14.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis-jie/raw/tip/jie/OceanSciences/SaliCom_08oct14.ipynb)  
     
     **Imports from figures.py**  
 
