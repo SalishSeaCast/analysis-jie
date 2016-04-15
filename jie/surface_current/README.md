@@ -10,6 +10,10 @@ Descriptions below the links are from the first cell of the notebooks
     
     * This notebook was made to look at the statistics of wind information by plotting wind rose diagram  
 
+* ##[Rmix_more.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis-jie/raw/tip/jie/surface_current/Rmix_more.ipynb)  
+    
+    * This notebook is the same with Rmix and also added spatial distribution of Rmix difference.  
+
 * ##[TransportEachRun.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis-jie/raw/tip/jie/surface_current/TransportEachRun.ipynb)  
     
     * This notebook was made to look at the alongshore, cross-starit transport of fresh water, total water amount of each run.  
