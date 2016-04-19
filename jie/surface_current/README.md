@@ -12,7 +12,7 @@ Descriptions below the links are from the first cell of the notebooks
 
 * ##[Rmix_more.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis-jie/raw/tip/jie/surface_current/Rmix_more.ipynb)  
     
-    * This notebook is the same with Rmix and also added spatial distribution of Rmix difference.  
+    * This notebook is the same with Rmix.ipynb and also added spatial distribution of Rmix difference.  
 
 * ##[TransportEachRun.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis-jie/raw/tip/jie/surface_current/TransportEachRun.ipynb)  
     
@@ -52,7 +52,11 @@ Descriptions below the links are from the first cell of the notebooks
 
 * ##[TidesWindsFOct2014.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis-jie/raw/tip/jie/surface_current/TidesWindsFOct2014.ipynb)  
     
-    * To investigate the forcings on stratification and total currents.   
+    * To investigate the forcings on stratification and total currents of last five days.  
+
+* ##[TidesWindsGeneralCase.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis-jie/raw/tip/jie/surface_current/TidesWindsGeneralCase.ipynb)  
+    
+    * To look at Rmix and spatial distribution every five days given a month.  
 
 * ##[RmixStatistics.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis-jie/raw/tip/jie/surface_current/RmixStatistics.ipynb)  
     
