@@ -6,11 +6,11 @@ The links below are to static renderings of the notebooks via
 Descriptions below the links are from the first cell of the notebooks
 (if that cell contains Markdown or raw text).
 
-* ##[IOS_fall2014Temp.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis/raw/tip/jie/ios/IOS_fall2014Temp.ipynb)  
+* ##[IOS_fall2014Temp.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis-jie/raw/tip/jie/ios/IOS_fall2014Temp.ipynb)  
     
     *  Look at data-new model temperature results comparison in fall, 2014.  
 
-* ##[ScatterComparison.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis/raw/tip/jie/ios/ScatterComparison.ipynb)  
+* ##[ScatterComparison.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis-jie/raw/tip/jie/ios/ScatterComparison.ipynb)  
     
     Similarly, this notebook was to make scatter plot of S and T.  
       
@@ -18,14 +18,21 @@ Descriptions below the links are from the first cell of the notebooks
       
     2) Compare with nowcasts.  
 
-* ##[IOS_fall2014.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis/raw/tip/jie/ios/IOS_fall2014.ipynb)  
+* ##[SummaryIOS.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis-jie/raw/tip/jie/ios/SummaryIOS.ipynb)  
+    
+    * This notebook was made to look at:  
+    1) Total CTD casts carried out by IOS.  
+    2) How seasonally they are distributed?  
+    3) The location?  
+
+* ##[IOS_fall2014.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis-jie/raw/tip/jie/ios/IOS_fall2014.ipynb)  
     
     * Look at data-new model salinity results comparison in fall, 2014.  
 
 
 ##License
 
-These notebooks and files are copyright 2013-2015
+These notebooks and files are copyright 2013-2016
 by the Salish Sea MEOPAR Project Contributors
 and The University of British Columbia.
 
