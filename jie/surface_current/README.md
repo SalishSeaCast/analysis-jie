@@ -14,6 +14,10 @@ Descriptions below the links are from the first cell of the notebooks
     
     * This notebook is the same with Rmix.ipynb and also added spatial distribution of Rmix difference.  
 
+* ##[SaltFreshFlux.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis-jie/raw/tip/jie/surface_current/SaltFreshFlux.ipynb)  
+    
+    * This notebook was made to check the salt, total and fresh water flux at transect 4 (at the river mouth) and the investigate the sensitivity of choice of S0.  
+
 * ##[TransportEachRun.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis-jie/raw/tip/jie/surface_current/TransportEachRun.ipynb)  
     
     * This notebook was made to look at the alongshore, cross-starit transport of fresh water, total water amount of each run.  
