@@ -62,6 +62,14 @@ Descriptions below the links are from the first cell of the notebooks
     
     * To look at Rmix and spatial distribution every five days given a month.  
 
+* ##[TestRmixFroud.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis-jie/raw/tip/jie/surface_current/TestRmixFroud.ipynb)  
+    
+    * This notebook targets at   
+      
+    1) the transition from near- to far-field under three wind event conditions.  
+    2) testing if Rmix is reasonable in defining near and far fiel.  
+    3) Compare the near and far field defined by Rmix with that by Froude number.  
+
 * ##[RmixStatistics.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis-jie/raw/tip/jie/surface_current/RmixStatistics.ipynb)  
     
     * This notebook was made to do some statistics of to which degree each forcing mechanism contribute to the vertical mixing in different plume region.  
