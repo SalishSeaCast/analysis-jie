@@ -26,6 +26,10 @@ Descriptions below the links are from the first cell of the notebooks
     
     * This notebook was made to evaluate mean current (only forced by river flow) during low river flow period by comparing with codar data.  
 
+* ##[CompareDiffRiverFlows.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis-jie/raw/tip/jie/surface_current/CompareDiffRiverFlows.ipynb)  
+    
+    * This notebook was made to compare the mixing of each run case between different river flow scenarios.  
+
 * ##[ImpactOfEachForcing.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis-jie/raw/tip/jie/surface_current/ImpactOfEachForcing.ipynb)  
     
     * To investigate the impact of each forcing, i.e., river flow, tides, winds and Coriolis force on the plume properties and stratification.  
