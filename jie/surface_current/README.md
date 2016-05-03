@@ -30,6 +30,8 @@ Descriptions below the links are from the first cell of the notebooks
     
     * This notebook was made to compare the mixing of each run case between different river flow scenarios.  
 
+* ##[UnstableRun.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis-jie/raw/tip/jie/surface_current/UnstableRun.ipynb)  
+    
 * ##[ImpactOfEachForcing.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis-jie/raw/tip/jie/surface_current/ImpactOfEachForcing.ipynb)  
     
     * To investigate the impact of each forcing, i.e., river flow, tides, winds and Coriolis force on the plume properties and stratification.  
