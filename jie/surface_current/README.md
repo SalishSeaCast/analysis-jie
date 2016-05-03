@@ -84,6 +84,13 @@ Descriptions below the links are from the first cell of the notebooks
     
     * To compare effect of viscosity in the mean current.  
 
+* ##[TestRmixFroudFurther.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis-jie/raw/tip/jie/surface_current/TestRmixFroudFurther.ipynb)  
+    
+    * This notebook targets at  
+      
+    1) the transition from near- to far-field under three wind event conditions. 2) testing if Rmix is reasonable in defining near and far fiel. 3) Compare the near and far field defined by Rmix with that by Froude number.  
+
+
 * ##[TSforMay2015.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis-jie/raw/tip/jie/surface_current/TSforMay2015.ipynb)  
     
     * This notebook was made to create TS initial files based on 21apr15 to spinup for May2015.  
