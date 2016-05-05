@@ -28,7 +28,7 @@ Descriptions below the links are from the first cell of the notebooks
 
 * ##[CompareDiffRiverFlows.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis-jie/raw/tip/jie/surface_current/CompareDiffRiverFlows.ipynb)  
     
-    * This notebook was made to compare the mixing of each run case between different river flow scenarios.  
+    * This notebook was made to compare the Rmix, location of near and far field of each run case between different river flow scenarios.  
 
 * ##[UnstableRun.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis-jie/raw/tip/jie/surface_current/UnstableRun.ipynb)  
     
@@ -84,6 +84,8 @@ Descriptions below the links are from the first cell of the notebooks
     
     * To compare effect of viscosity in the mean current.  
 
+* ##[UnstableRun_SusanAnalysis.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis-jie/raw/tip/jie/surface_current/UnstableRun_SusanAnalysis.ipynb)  
+    
 * ##[TestRmixFroudFurther.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis-jie/raw/tip/jie/surface_current/TestRmixFroudFurther.ipynb)  
     
     * This notebook targets at  
