@@ -76,6 +76,10 @@ Descriptions below the links are from the first cell of the notebooks
     2) testing if Rmix is reasonable in defining near and far fiel.  
     3) Compare the near and far field defined by Rmix with that by Froude number.  
 
+* ##[TransportCrossRuns.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis-jie/raw/tip/jie/surface_current/TransportCrossRuns.ipynb)  
+    
+    * Compare total volumn and fresh water transport across different river flow conditions.  
+
 * ##[RmixStatistics.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis-jie/raw/tip/jie/surface_current/RmixStatistics.ipynb)  
     
     * This notebook was made to do some statistics of to which degree each forcing mechanism contribute to the vertical mixing in different plume region.  
