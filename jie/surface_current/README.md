@@ -34,6 +34,10 @@ Descriptions below the links are from the first cell of the notebooks
     
     * This notebook was made to evaluate mean current (only forced by river flow) during low river flow period by comparing with codar data.  
 
+* ##[CoriolisOnMixing.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis-jie/raw/tip/jie/surface_current/CoriolisOnMixing.ipynb)  
+    
+    * This notebook was made to investigate the effects of the Coriolis force on mixing.  
+
 * ##[CompareDiffRiverFlows.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis-jie/raw/tip/jie/surface_current/CompareDiffRiverFlows.ipynb)  
     
     * This notebook was made to compare the Rmix, location of near and far field of each run case between different river flow scenarios.  
