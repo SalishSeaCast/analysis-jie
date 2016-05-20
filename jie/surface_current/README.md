@@ -8,7 +8,7 @@ Descriptions below the links are from the first cell of the notebooks
 
 * ##[RiverRmixWindTide.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis-jie/raw/tip/jie/surface_current/RiverRmixWindTide.ipynb)  
     
-    * This notebook was made to investigate when mixing in the river is dominant by tides and when by winds.  
+    * This notebook was made to investigate when mixing in the river is dominant by tides and when by river-induced mixing or winds in an averaged sense and also at different instantaneous time.  
 
 * ##[WindRose.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis-jie/raw/tip/jie/surface_current/WindRose.ipynb)  
     
