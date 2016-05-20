@@ -14,6 +14,10 @@ Descriptions below the links are from the first cell of the notebooks
     
     * This notebook is the same with Rmix.ipynb and also added spatial distribution of Rmix difference.  
 
+* ##[DiffLowHighBF.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis-jie/raw/tip/jie/surface_current/DiffLowHighBF.ipynb)  
+    
+    * To investigate the effects of bottom friction to surface flows.  
+
 * ##[SaltFreshFlux.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis-jie/raw/tip/jie/surface_current/SaltFreshFlux.ipynb)  
     
     * This notebook was made to check the salt, total and fresh water flux at transect 4 (at the river mouth) and the investigate the sensitivity of choice of S0.  
@@ -29,6 +33,10 @@ Descriptions below the links are from the first cell of the notebooks
 * ##[CompareDiffRiverFlows.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis-jie/raw/tip/jie/surface_current/CompareDiffRiverFlows.ipynb)  
     
     * This notebook was made to compare the Rmix, location of near and far field of each run case between different river flow scenarios.  
+
+* ##[FroudeNo.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis-jie/raw/tip/jie/surface_current/FroudeNo.ipynb)  
+    
+    * Investigate why Froude No not work. Examples show the snapshot of Froude number at peak ebb/flood over the whole plume region with upper layer reaching 10 m during three different river flow periods.  
 
 * ##[UnstableRun.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis-jie/raw/tip/jie/surface_current/UnstableRun.ipynb)  
     
