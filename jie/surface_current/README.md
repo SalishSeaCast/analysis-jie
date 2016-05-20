@@ -6,6 +6,10 @@ The links below are to static renderings of the notebooks via
 Descriptions below the links are from the first cell of the notebooks
 (if that cell contains Markdown or raw text).
 
+* ##[RiverRmixWindTide.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis-jie/raw/tip/jie/surface_current/RiverRmixWindTide.ipynb)  
+    
+    * This notebook was made to investigate when mixing in the river is dominant by tides and when by winds.  
+
 * ##[WindRose.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis-jie/raw/tip/jie/surface_current/WindRose.ipynb)  
     
     * This notebook was made to look at the statistics of wind information by plotting wind rose diagram  
