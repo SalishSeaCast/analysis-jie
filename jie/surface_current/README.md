@@ -60,6 +60,10 @@ Descriptions below the links are from the first cell of the notebooks
     * 2 None of them is closer to codar, something else is still going on...  
     * 3 Analyze difference between only river and all conditions.  
 
+* ##[PlumePosition.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis-jie/raw/tip/jie/surface_current/PlumePosition.ipynb)  
+    
+    * This notebook was made to look at the plume position defined by $x = \frac{\iint xf(x,y)dxdy}{\iint f(x,y)dxdy}$, $y = \frac{\iint yf(x,y)dxdy}{\iint f(x,y)dxdy}$, $f(x,y) = \int \frac{S_{0}-S}{S_{0}}dz$, affected by winds and the Coriolis force. $S_{0}$ = 30.  
+
 * ##[NoCoriolisMeanCurrent.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis-jie/raw/tip/jie/surface_current/NoCoriolisMeanCurrent.ipynb)  
     
     * To check my four days mean current without Coriolis force.  
