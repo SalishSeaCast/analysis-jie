@@ -98,7 +98,7 @@ Descriptions below the links are from the first cell of the notebooks
 
 * ##[TransportCrossRuns.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis-jie/raw/tip/jie/surface_current/TransportCrossRuns.ipynb)  
     
-    * Compare total volumn and fresh water transport across different river flow conditions.  
+    * Compare fresh water transport across different river flow conditions, especially looking at effects of Coriolis force and winds.  
 
 * ##[RmixStatistics.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis-jie/raw/tip/jie/surface_current/RmixStatistics.ipynb)  
     
