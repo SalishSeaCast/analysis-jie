@@ -22,6 +22,10 @@ Descriptions below the links are from the first cell of the notebooks
     
     * To investigate the effects of bottom friction to surface flows.  
 
+* ##[SummaryFluxPosition.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis-jie/raw/tip/jie/surface_current/SummaryFluxPosition.ipynb)  
+    
+    * Summarize the fresh water flux and plume position affected by winds and the Coriolis force under different river flows in two overall graphs.   
+
 * ##[SaltFreshFlux.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis-jie/raw/tip/jie/surface_current/SaltFreshFlux.ipynb)  
     
     * This notebook was made to check the salt, total and fresh water flux at transect 4 (at the river mouth) and the investigate the sensitivity of choice of S0.  
