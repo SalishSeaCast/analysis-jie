@@ -40,6 +40,8 @@ Descriptions below the links are from the first cell of the notebooks
     
     Use june 14 nowcast restart as cold and hot start for my nowcast, by calculating the rms error, to determine the spin up days.  
 
+* ##[ParticleBlastFourScenarios.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis/raw/tip/jie/drifter/ParticleBlastFourScenarios.ipynb)  
+    
 * ##[MoreDrifterComparisons_SepInitialFile.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis/raw/tip/jie/drifter/MoreDrifterComparisons_SepInitialFile.ipynb)  
     
     Same comparisons except this is more recent(Sep 24) restart file for the simulation.  
