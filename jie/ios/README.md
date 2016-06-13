@@ -6,6 +6,10 @@ The links below are to static renderings of the notebooks via
 Descriptions below the links are from the first cell of the notebooks
 (if that cell contains Markdown or raw text).
 
+* ##[FinalScatterOct.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis-jie/raw/tip/jie/ios/FinalScatterOct.ipynb)  
+    
+    * Scatter plot for obs in October compared with extended river, reduced viscosity, reduced both viscosity and diffusivity cases for paper.  
+
 * ##[IOS_fall2014Temp.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis-jie/raw/tip/jie/ios/IOS_fall2014Temp.ipynb)  
     
     *  Look at data-new model temperature results comparison in fall, 2014.  
@@ -19,6 +23,13 @@ Descriptions below the links are from the first cell of the notebooks
     2) Compare with nowcasts.  
 
 * ##[SummaryIOS.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis-jie/raw/tip/jie/ios/SummaryIOS.ipynb)  
+    
+    * This notebook was made to look at:  
+    1) Total CTD casts carried out by IOS.  
+    2) How seasonally they are distributed?  
+    3) The location?  
+
+* ##[SummaryIOS_error.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis-jie/raw/tip/jie/ios/SummaryIOS_error.ipynb)  
     
     * This notebook was made to look at:  
     1) Total CTD casts carried out by IOS.  
