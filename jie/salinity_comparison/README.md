@@ -6,6 +6,10 @@ The links below are to static renderings of the notebooks via
 Descriptions below the links are from the first cell of the notebooks
 (if that cell contains Markdown or raw text).
 
+* ##[CompleteMinLocValFre.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis-jie/raw/tip/jie/salinity_comparison/CompleteMinLocValFre.ipynb)  
+    
+    * Compare minimum salinity value, location, fresh water amount between ferry observation, nowcast and new model results.  
+
 * ##[FerrySalinityMixingRegion.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis-jie/raw/tip/jie/salinity_comparison/FerrySalinityMixingRegion.ipynb)  
     
     This notebook was made to check the mixing region of jetty bathymetry with ferry data, to investigate if the modelled result makes sense.  
