@@ -38,6 +38,10 @@ Descriptions below the links are from the first cell of the notebooks
     
     * This notebook was made to look at 1.5 m salinity comparison between reduced viscosity, no_banks, new bathymetry, nowcast model result and ferry salinity in the hindcast.  
 
+* ##[CompleteMinLocValFre_TimeInterp.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis-jie/raw/tip/jie/salinity_comparison/CompleteMinLocValFre_TimeInterp.ipynb)  
+    
+    * Similar with CompleteMinLocValFre.ipynb, except this notebook contains time interpolation, exclude the average of value and loc.  
+
 * ##[SalinityCompareShlat.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis-jie/raw/tip/jie/salinity_comparison/SalinityCompareShlat.ipynb)  
     
     * This notebook was made to compare ferry salinity with weakslip new river and weakslip jetty case.  
