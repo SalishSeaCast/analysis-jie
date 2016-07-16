@@ -23,7 +23,7 @@ import re
 
 
 nbviewer = 'http://nbviewer.ipython.org/urls'
-repo = 'bitbucket.org/salishsea/analysis/raw/tip'
+repo = 'bitbucket.org/salishsea/analysis-jie/raw/tip'
 repo_dir = 'jie/parameters'
 url = os.path.join(nbviewer, repo, repo_dir)
 title_pattern = re.compile('#{1,6} ?')
