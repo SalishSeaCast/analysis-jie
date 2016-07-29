@@ -96,6 +96,10 @@ Descriptions below the links are from the first cell of the notebooks
     
     * To investigate the forcings on stratification and total currents of last five days.  
 
+* ##[CoriolisFurtherFlux.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis-jie/raw/tip/jie/surface_current/CoriolisFurtherFlux.ipynb)  
+    
+    * Test if effects of Coriolis in northward freshwater flux is inhibited by northward wind and by length of transect.  
+
 * ##[CompareDiffRiverFlows2.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis-jie/raw/tip/jie/surface_current/CompareDiffRiverFlows2.ipynb)  
     
     * Similar with CompareDiffRiverFlow notebook, except the threshold of transition from near to far field changed to (Rmix(wind)-Rmix(tide))/Rmix(all)>=0.1 here.  
