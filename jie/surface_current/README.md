@@ -88,6 +88,10 @@ Descriptions below the links are from the first cell of the notebooks
     
     * Spin-up determination  
 
+* ##[CoriolisWithoutHollingsworth.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis-jie/raw/tip/jie/surface_current/CoriolisWithoutHollingsworth.ipynb)  
+    
+    * Check the difference between Coriolis and no Coriolis both under without Hollingsworth conditions (enstrophy conserving = True.)  
+
 * ##[Rmix.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis-jie/raw/tip/jie/surface_current/Rmix.ipynb)  
     
     * This notebook is to investigate why mixing region sho up in the near field and north of the river mouth at low tides rather than high tides.  
