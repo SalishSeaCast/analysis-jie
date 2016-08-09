@@ -108,6 +108,10 @@ Descriptions below the links are from the first cell of the notebooks
     
     * Similar with CompareDiffRiverFlow notebook, except the threshold of transition from near to far field changed to (Rmix(wind)-Rmix(tide))/Rmix(all)>=0.1 here.  
 
+* ##[WindEventWindRose.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis-jie/raw/tip/jie/surface_current/WindEventWindRose.ipynb)  
+    
+    * Summarize the wind info in the events of interests.  
+
 * ##[TidesWindsGeneralCase.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis-jie/raw/tip/jie/surface_current/TidesWindsGeneralCase.ipynb)  
     
     * To look at Rmix and spatial distribution every five days given a month.  
