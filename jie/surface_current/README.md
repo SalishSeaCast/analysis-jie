@@ -58,6 +58,10 @@ Descriptions below the links are from the first cell of the notebooks
     
     * Investigate why Froude No not work. Examples show the snapshot of Froude number at peak ebb/flood over the whole plume region with upper layer reaching 10 m during three different river flow periods.  
 
+* ##[CheckTransportByWind.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis-jie/raw/tip/jie/surface_current/CheckTransportByWind.ipynb)  
+    
+    * Check the freshwater transport impact by wind in May.  
+
 * ##[UnstableRun.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis-jie/raw/tip/jie/surface_current/UnstableRun.ipynb)  
     
 * ##[ImpactOfEachForcing.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis-jie/raw/tip/jie/surface_current/ImpactOfEachForcing.ipynb)  
