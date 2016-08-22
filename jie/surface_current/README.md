@@ -144,6 +144,10 @@ Descriptions below the links are from the first cell of the notebooks
     
     * To compare effect of viscosity in the mean current.  
 
+* ##[IntegralWindStress.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis-jie/raw/tip/jie/surface_current/IntegralWindStress.ipynb)  
+    
+    * Integral the wind stress at Sandheads along- and cross-strait for different months (Jan, Oct and May).  
+
 * ##[UnstableRun_SusanAnalysis.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis-jie/raw/tip/jie/surface_current/UnstableRun_SusanAnalysis.ipynb)  
     
 * ##[TestRmixFroudFurther.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis-jie/raw/tip/jie/surface_current/TestRmixFroudFurther.ipynb)  
