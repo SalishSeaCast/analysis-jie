@@ -6,6 +6,10 @@ The links below are to static renderings of the notebooks via
 Descriptions below the links are from the first cell of the notebooks
 (if that cell contains Markdown or raw text).
 
+* ##[CheckCoriolisFluxDailySeries.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis-jie/raw/tip/jie/paper/CheckCoriolisFluxDailySeries.ipynb)  
+    
+    * Look at daily integral of freshwater transport with and withou Coriolis, and the averaged salinity in the English Bay.  
+
 * ##[RmixRiverChannel.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis-jie/raw/tip/jie/paper/RmixRiverChannel.ipynb)  
     
     * Tides impact in the river channel  
