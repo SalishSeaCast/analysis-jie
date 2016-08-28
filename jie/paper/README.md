@@ -10,6 +10,10 @@ Descriptions below the links are from the first cell of the notebooks
     
     * Look at daily integral of freshwater transport with and withou Coriolis, and the averaged salinity in the English Bay.  
 
+* ##[CoriolisSpatialPlot.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis-jie/raw/tip/jie/paper/CoriolisSpatialPlot.ipynb)  
+    
+    * Plot the spatial salinity pattern at peak ebbs with and without Coriolis force.  
+
 * ##[RmixRiverChannel.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis-jie/raw/tip/jie/paper/RmixRiverChannel.ipynb)  
     
     * Tides impact in the river channel  
