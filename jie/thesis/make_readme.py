@@ -24,7 +24,7 @@ import re
 
 nbviewer = 'http://nbviewer.ipython.org/urls'
 repo = 'bitbucket.org/salishsea/analysis-jie/raw/tip'
-repo_dir = 'jie/paper'
+repo_dir = 'jie/thesis'
 url = os.path.join(nbviewer, repo, repo_dir)
 title_pattern = re.compile('#{1,6} ?')
 readme = """The IPython Notebooks in this directory are made by Jie for
