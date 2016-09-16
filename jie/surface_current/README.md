@@ -30,6 +30,10 @@ Descriptions below the links are from the first cell of the notebooks
     
     * Summarize the fresh water flux and plume position affected by winds and the Coriolis force under different river flows in two overall graphs.   
 
+* ##[SEA_Potential_Energy.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis-jie/raw/tip/jie/surface_current/SEA_Potential_Energy.ipynb)  
+    
+    **Think about Potential Energy**  
+
 * ##[SaltFreshFlux.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis-jie/raw/tip/jie/surface_current/SaltFreshFlux.ipynb)  
     
     * This notebook was made to check the salt, total and fresh water flux at transect 4 (at the river mouth) and the investigate the sensitivity of choice of S0.  
