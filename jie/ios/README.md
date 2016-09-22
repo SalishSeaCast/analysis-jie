@@ -22,6 +22,10 @@ Descriptions below the links are from the first cell of the notebooks
       
     2) Compare with nowcasts.  
 
+* ##[DiffusivityCTD.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis-jie/raw/tip/jie/ios/DiffusivityCTD.ipynb)  
+    
+    * Scatter plot for obs in October compared with extended river, reduced viscosity, reduced both viscosity and diffusivity cases for paper.  
+
 * ##[SummaryIOS.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis-jie/raw/tip/jie/ios/SummaryIOS.ipynb)  
     
     * This notebook was made to look at:  
