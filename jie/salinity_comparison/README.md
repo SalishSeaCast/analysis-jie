@@ -34,6 +34,8 @@ Descriptions below the links are from the first cell of the notebooks
     
     **Imports from research_ferries.py in my own directory**  
 
+* ##[SaliCom_08oct14RecentVersion.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis-jie/raw/tip/jie/salinity_comparison/SaliCom_08oct14RecentVersion.ipynb)  
+    
 * ##[FerrySalinityForHindcast.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis-jie/raw/tip/jie/salinity_comparison/FerrySalinityForHindcast.ipynb)  
     
     * This notebook was made to look at 1.5 m salinity comparison between reduced viscosity, no_banks, new bathymetry, nowcast model result and ferry salinity in the hindcast.  
