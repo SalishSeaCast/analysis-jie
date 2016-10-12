@@ -16,6 +16,8 @@ Descriptions below the links are from the first cell of the notebooks
 
 * ##[DrifterParticleTestWeakSlip.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis-jie/raw/tip/jie/drifter/DrifterParticleTestWeakSlip.ipynb)  
     
+* ##[StatisticsAfterEachHour.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis-jie/raw/tip/jie/drifter/StatisticsAfterEachHour.ipynb)  
+    
 * ##[ParticleBlast.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis-jie/raw/tip/jie/drifter/ParticleBlast.ipynb)  
     
     * By combining particles with different positions into one plot, it enables us to see what position the model predicts to go within +-30min and +-1km.  
