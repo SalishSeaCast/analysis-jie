@@ -156,6 +156,10 @@ Descriptions below the links are from the first cell of the notebooks
     
     * Test daily plume position in three months.  
 
+* ##[SurfaceSalinityComparisonOfBathy5And2.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis-jie/raw/tip/jie/surface_current/SurfaceSalinityComparisonOfBathy5And2.ipynb)  
+    
+    * To compared the overall averaged surface salinity between bathymetry 5 & 2.  
+
 * ##[IntegralWindStress.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis-jie/raw/tip/jie/surface_current/IntegralWindStress.ipynb)  
     
     * Integral the wind stress at Sandheads along- and cross-strait for different months (Jan, Oct and May).  
