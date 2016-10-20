@@ -112,6 +112,10 @@ Descriptions below the links are from the first cell of the notebooks
     
     * To investigate the forcings on stratification and total currents of last five days.  
 
+* ##[CheckPlumeDepthCoriolisForce.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis-jie/raw/tip/jie/surface_current/CheckPlumeDepthCoriolisForce.ipynb)  
+    
+    * To check the plume thickness with and without the Coriolis force.  
+
 * ##[TestMySubdomain.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis-jie/raw/tip/jie/surface_current/TestMySubdomain.ipynb)  
     
     * Test the method to combine files by using RecombingSubdomainCODAR.ipynb.  
