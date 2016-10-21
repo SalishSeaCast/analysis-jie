@@ -18,6 +18,10 @@ Descriptions below the links are from the first cell of the notebooks
     
     * This notebook was made to look at the statistics of wind information by plotting wind rose diagram  
 
+* ##[CalculateKelvinNumber.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis-jie/raw/tip/jie/surface_current/CalculateKelvinNumber.ipynb)  
+    
+    * Calculate mouth Kelvin number.  
+
 * ##[Rmix_more.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis-jie/raw/tip/jie/surface_current/Rmix_more.ipynb)  
     
     * This notebook is the same with Rmix.ipynb and also added spatial distribution of Rmix difference.  
@@ -91,6 +95,10 @@ Descriptions below the links are from the first cell of the notebooks
 * ##[NoCoriolisMeanCurrent.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis-jie/raw/tip/jie/surface_current/NoCoriolisMeanCurrent.ipynb)  
     
     * To check my four days mean current without Coriolis force.  
+
+* ##[AddQuiverOntoPlumePosition.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis-jie/raw/tip/jie/surface_current/AddQuiverOntoPlumePosition.ipynb)  
+    
+    * Test if there is a bulge.  
 
 * ##[HindcastSalCurrField.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis-jie/raw/tip/jie/surface_current/HindcastSalCurrField.ipynb)  
     
