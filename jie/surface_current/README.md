@@ -189,6 +189,10 @@ Descriptions below the links are from the first cell of the notebooks
     
     * This notebook was made to create TS initial files based on 21apr15 to spinup for May2015.  
 
+* ##[CalculateRossbyDeformationRadius.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis-jie/raw/tip/jie/surface_current/CalculateRossbyDeformationRadius.ipynb)  
+    
+    * Calculate Rossby deformration radius based on normal mode decomposition  
+
 
 ##License
 
