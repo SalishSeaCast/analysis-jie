@@ -185,6 +185,10 @@ Descriptions below the links are from the first cell of the notebooks
     1) the transition from near- to far-field under three wind event conditions. 2) testing if Rmix is reasonable in defining near and far fiel. 3) Compare the near and far field defined by Rmix with that by Froude number.  
 
 
+* ##[TidesWindsMay.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis-jie/raw/tip/jie/surface_current/TidesWindsMay.ipynb)  
+    
+    * Determine if the expansion of near-field in May is caused by decreasing of wind-induced mixing or increasing of tide-induced mixing.  
+
 * ##[TSforMay2015.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis-jie/raw/tip/jie/surface_current/TSforMay2015.ipynb)  
     
     * This notebook was made to create TS initial files based on 21apr15 to spinup for May2015.  
