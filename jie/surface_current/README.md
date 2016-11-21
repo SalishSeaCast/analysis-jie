@@ -120,6 +120,10 @@ Descriptions below the links are from the first cell of the notebooks
     
     * This notebook is to investigate why mixing region sho up in the near field and north of the river mouth at low tides rather than high tides.  
 
+* ##[CheckTimingFloodEbbBathy26.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis-jie/raw/tip/jie/surface_current/CheckTimingFloodEbbBathy26.ipynb)  
+    
+    * Check time inteval between peak flood and peak ebb and vice versa between bathy6 and bathy2.  
+
 * ##[TidesWindsFOct2014.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis-jie/raw/tip/jie/surface_current/TidesWindsFOct2014.ipynb)  
     
     * To investigate the forcings on stratification and total currents of last five days.  
