@@ -18,6 +18,11 @@ Descriptions below the links are from the first cell of the notebooks
     
     * This notebook was made to look at the statistics of wind information by plotting wind rose diagram  
 
+* ##[JettyBathymetry.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis-jie/raw/tip/jie/surface_current/JettyBathymetry.ipynb)  
+    
+    * Make jetty bathymetry plot  
+
+
 * ##[CalculateKelvinNumber.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis-jie/raw/tip/jie/surface_current/CalculateKelvinNumber.ipynb)  
     
     * Calculate mouth Kelvin number.  
@@ -192,6 +197,10 @@ Descriptions below the links are from the first cell of the notebooks
       
     1) the transition from near- to far-field under three wind event conditions. 2) testing if Rmix is reasonable in defining near and far fiel. 3) Compare the near and far field defined by Rmix with that by Froude number.  
 
+
+* ##[ComparediffRiverFlowsFinal.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis-jie/raw/tip/jie/surface_current/ComparediffRiverFlowsFinal.ipynb)  
+    
+    * To look at the huge negative rmix area in May moderate wind is caused by more freshwater transport to the south without tidal mixing at Haro Strait, or the advection of the wind from north-west.  
 
 * ##[TidesWindsMay.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis-jie/raw/tip/jie/surface_current/TidesWindsMay.ipynb)  
     
