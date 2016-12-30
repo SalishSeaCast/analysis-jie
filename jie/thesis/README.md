@@ -14,6 +14,10 @@ Descriptions below the links are from the first cell of the notebooks
     
     * Plot the spatial salinity pattern at peak ebbs with and without Coriolis force.  
 
+* ##[FinalScatterOct-TestExcludeInnerLabels.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis-jie/raw/tip/jie/thesis/FinalScatterOct-TestExcludeInnerLabels.ipynb)  
+    
+    * Remove inner label, change colormap for scatter plot.  
+
 * ##[RmixRiverChannel.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis-jie/raw/tip/jie/thesis/RmixRiverChannel.ipynb)  
     
     * Tides impact in the river channel  
