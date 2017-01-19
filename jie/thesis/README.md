@@ -6,6 +6,10 @@ The links below are to static renderings of the notebooks via
 Descriptions below the links are from the first cell of the notebooks
 (if that cell contains Markdown or raw text).
 
+* ##[FrNoPlotNewMethod.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis-jie/raw/tip/jie/thesis/FrNoPlotNewMethod.ipynb)  
+    
+    * Froude number plots at peak ebbs and floods.  
+
 * ##[CheckCoriolisFluxDailySeries.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis-jie/raw/tip/jie/thesis/CheckCoriolisFluxDailySeries.ipynb)  
     
     * Look at daily integral of freshwater transport with and withou Coriolis, and the averaged salinity in the English Bay.  
@@ -37,7 +41,7 @@ Descriptions below the links are from the first cell of the notebooks
 
 ##License
 
-These notebooks and files are copyright 2013-2016
+These notebooks and files are copyright 2013-2017
 by the Salish Sea MEOPAR Project Contributors
 and The University of British Columbia.
 
