@@ -85,6 +85,10 @@ Descriptions below the links are from the first cell of the notebooks
     
     * To investigate the impact of each forcing, i.e., river flow, tides, winds and Coriolis force on the plume properties and stratification.  
 
+* ##[CheckedAveragedCoriolisEffect.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis-jie/raw/tip/jie/surface_current/CheckedAveragedCoriolisEffect.ipynb)  
+    
+    * To check averaged Coriolis effect over a strong wind period in Jan.  
+
 * ##[OnlyRiverMeanCurrent.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis-jie/raw/tip/jie/surface_current/OnlyRiverMeanCurrent.ipynb)  
     
     * In addition to comparing mean current of model results with codar by the same method, how about the idealized caseof mean current? That is, to run only with rivers, no tides, no weather. Two speculations of the potential results:  
@@ -217,7 +221,7 @@ Descriptions below the links are from the first cell of the notebooks
 
 ##License
 
-These notebooks and files are copyright 2013-2016
+These notebooks and files are copyright 2013-2017
 by the Salish Sea MEOPAR Project Contributors
 and The University of British Columbia.
 
